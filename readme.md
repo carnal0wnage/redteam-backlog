@@ -91,3 +91,6 @@ Table of Contents
 # 📘 Documentation & Reporting
 
 - [ ] Update Team Wiki
+- [ ] Update $Process SOP or Wiki
+- [ ] Create Vulnerability Trends based on passed Pentests and Red Team Operations
+- [ ] TODO
