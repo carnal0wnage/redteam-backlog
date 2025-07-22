@@ -1,4 +1,4 @@
-# ## 🔐 Research Spike: Password Spraying Office 365 / Azure
+# 🔐 Research Spike: Password Spraying Office 365 / Azure
 
 **Goal:**  
 Simulate safe, low-and-slow password spraying attacks against Microsoft 365 / Azure AD tenant(s) using tools like `O365Spray`, `MSOLSpray`, or `ROADtools`. Understand lockout thresholds, detection methods, and how attackers identify valid usernames.
