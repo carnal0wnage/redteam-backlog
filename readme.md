@@ -69,7 +69,7 @@ Table of Contents
 - [ ] USB Drop Research (OMG Cable, lure docs)  
 - [ ] Rogue USB-C Dock (Video+KVM+LAN)  
 - [ ] Long-Range RFID Cloner & BLE Relay  
-- [ ] Mobile Wallet vs. Prox Badge Clone & Replay  
+- [ ] [Mobile Application vs. Prox Badge Clone & Replay](/link)  
 - [ ] Unencrypted RF Eavesdropping (Radios, BLE, mics)  
 
 # 🧪 Vuln Management & Signal Prioritization
