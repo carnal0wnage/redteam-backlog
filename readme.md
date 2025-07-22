@@ -10,7 +10,7 @@ Table of Contents
 # 🧑‍💻 Credential & Identity Abuse
 
 - [ ] [Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
-- [ ] Valid Accounts & Credential Scenarios  
+- [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
 - [ ] Password Spraying O365 / Azure  
 - [ ] GitHub/GitLab Secret Discovery Tool  
 - [ ] Confluence/Jira/Teams Secret Scanning  
