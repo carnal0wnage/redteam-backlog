@@ -5,7 +5,7 @@ For all those backlog items/ideas that all red teams need to do :-)
 send diffs with yours
 
 ## Questions
-* what's a spike? A. A short(ish) research task
+* Q. What's a spike? A. A short(ish) research task
 * 
 
 Table of Contents
@@ -54,7 +54,8 @@ Table of Contents
 - [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
-- [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)  
+- [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
+- [ ] [Enumerate Persistence Opportunities in MDM-Enrolled Devices](/link)
 
 # 🧰 Infrastructure Recon & Exploitation
 
