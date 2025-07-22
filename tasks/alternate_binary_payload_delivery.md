@@ -1,5 +1,5 @@
 
-# 🧪 Research Spike: Test Alternate Binary Formats for Payload Delivery
+# 🧪 Research Spike: Test Alternate Windows Binary Formats for Payload Delivery
 
 **Goal:**  
 Explore lesser-used executable formats such as `.NET Core`, `.WSF`, `.HTA`, `.JSE`, and `.VBS` for use in red team payload delivery. Evaluate effectiveness, detection rates, and compatibility with email delivery and execution paths.  
