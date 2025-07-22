@@ -15,11 +15,10 @@ Table of Contents
 - [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
-- [ ] Searching Docker Images for Secrets  
+- [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)
 - [ ] TODO
-- [ ] Docker Secret Hunting for Token Extraction
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
 # 🕸️ Web & Various Application Attack Surface
