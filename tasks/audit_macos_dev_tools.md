@@ -24,6 +24,7 @@ Developer tools often run with high privileges and touch sensitive code, credent
   - Config files with secrets
   - Extension/plugin loading
   - Path hijacking opportunities
+  - First party tools and development scripts
 
 ---
 
