@@ -17,7 +17,8 @@ Table of Contents
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] Searching Docker Images for Secrets  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
-- [ ] Chaining Medium Vulns for Escalation Paths
+- [ ] Chaining Low Vulns for Elevated Access (Low2Pwned)
+- [ ] 
 - [ ] Docker Secret Hunting for Token Extraction
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
