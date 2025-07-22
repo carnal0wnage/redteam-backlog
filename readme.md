@@ -60,11 +60,13 @@ Table of Contents
 - [ ] Printer Hacking  
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)  
 
-# 📡 C2 & Payload Engineering
+# 📡 Red Team Infrastructure, C2, & Payload Engineering
 
 - [ ] [C2 Infrastructure Basics (Mythic / Sliver)](/tasks/research_spike_c2_infrastructure_basics.md)  
 - [ ] Advanced Payload Obfuscation & Packers
 - [ ] [Custom C2 Channel Development](/tasks/research_spike_custom_c2_channel_development.md)
+- [ ] Create Virtual Macines of Corporate Builds for testing
+- [ ] Create terraform/ansible scripts for attack box builds
 
 # 🔐 Physical Security / RF / Access Control
 
@@ -94,3 +96,5 @@ Table of Contents
 - [ ] Update $Process SOP or Wiki
 - [ ] Create Vulnerability Trends based on passed Pentests and Red Team Operations
 - [ ] TODO
+
+
