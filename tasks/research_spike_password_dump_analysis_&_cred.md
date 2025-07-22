@@ -1,4 +1,4 @@
-# ## 🛠️ Research Spike: Password Dump Analysis & Credential Testing
+# 🛠️ Research Spike: Password Dump Analysis & Credential Testing
 
 **Goal:**  
 Use known password dumps and breach corpuses (e.g., COMB, RockYou2021, domain-specific leaks) to identify valid usernames and passwords for your organization, and test those credentials safely across exposed or internal services.
