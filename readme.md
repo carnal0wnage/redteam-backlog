@@ -34,7 +34,8 @@ Table of Contents
 - [ ] Phishing Pretext Template Pack (Internal Tools)  
 - [ ] Voice Deepfake for Helpdesk Abuse  
 - [ ] Automated Phishing Phone Trees  
-- [ ] Office Macro Phish Payloads (MITRE-mapped)  
+- [ ] Office Macro Phish Payloads (MITRE-mapped)
+- [ ] [Initial Access Inovations](fffff)
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
