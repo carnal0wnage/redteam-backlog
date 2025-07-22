@@ -35,7 +35,7 @@ Table of Contents
 - [ ] Voice Deepfake for Helpdesk Abuse  
 - [ ] Automated Phishing Phone Trees  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
-- [ ] [Initial Access Inovations](fffff)
+- [ ] [Initial Access Inovations](/tasks/initial_access_innovations.md)
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
