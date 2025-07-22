@@ -41,7 +41,7 @@ Table of Contents
 - [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)  
 - [ ] Agentless macOS Persistence Research  
 - [ ] Cross-Platform Secret Sniper Tool  
-- [ ] AWS PrivEsc via PMapper / Policy Analysis  
+- [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library  
 
 # 🧰 Infrastructure Recon & Exploitation
