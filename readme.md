@@ -55,7 +55,7 @@ Table of Contents
 # 🧰 Infrastructure Recon & Exploitation
 
 - [ ] NetBIOS/SMB Enumeration  
-- [ ] NFS Recon & Exploitation  
+- [ ] [NFS Recon & Exploitation](/tasks/research_spike_nfs_share_enumeration_and_exploit.md)  
 - [ ] Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops)  
 - [ ] Printer Hacking  
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)  
