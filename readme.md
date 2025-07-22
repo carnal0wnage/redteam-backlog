@@ -92,7 +92,7 @@ Table of Contents
 
 - [ ] Update Team Wiki
 - [ ] Update $Process SOP or Wiki
-- [ ] Create Vulnerability Trends based on passed Pentests and Red Team Operations
+- [ ] Create Vulnerability Trends from Past Pentests and Red Team Operations
 - [ ] TODO
 
 
