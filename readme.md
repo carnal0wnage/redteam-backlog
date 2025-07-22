@@ -43,6 +43,7 @@ Table of Contents
 - [ ] [Initial Access Inovations](/tasks/initial_access_innovations.md)
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
 - [ ] [Inital Access Payload Generation (MSI)](/tasks/msi_payload_delivery.md)
+- [ ] [Windows - Alternate Scripting Languages for Payload Delivery](/link)
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
