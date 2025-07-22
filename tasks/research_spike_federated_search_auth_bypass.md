@@ -1,7 +1,7 @@
 # 🛰️ Research Spike: Federated Search Auth Bypass
 
 **Goal:**  
-Identify ways to abuse federated search platforms (e.g., Elastic Enterprise Search, Splunk Federated Search, Microsoft 365 Graph Search, or Google Workspace Indexing) to bypass segmentation, access controls, or data governance boundaries by crafting targeted queries. Basically we are checking if any of the federated search tools like Glean, Gsuite tools or other things are over permissioned and allow you to see content you shouldnt.
+Identify ways to abuse federated search platforms (e.g., Elastic Enterprise Search, Splunk Federated Search, Microsoft 365 Graph Search, or Google Workspace Indexing) to bypass segmentation, access controls, or data governance boundaries by crafting targeted queries. Basically, we are checking if any of the federated search tools like Glean, Gsuite tools or other things are over permissioned and allow you to see content you shouldnt.
 
 **Why It Matters:**  
 Enterprises increasingly use federated search to unify access across data silos. However, misconfigured connectors, poorly scoped indexes, and over-permissive Graph APIs often allow attackers to read sensitive documents, emails, or logs they shouldn't — silently and at scale.
