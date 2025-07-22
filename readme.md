@@ -7,16 +7,78 @@ send diffs with yours
 Table of Contents
 =================
 
-Finding Vulnerable Things
+# 🧠 Credential & Identity Abuse
 
-Inital Access
+- [ ] Password Dump Analysis & Spraying  
+- [ ] Valid Accounts & Credential Scenarios  
+- [ ] Password Spraying O365 / Azure  
+- [ ] GitHub/GitLab Secret Discovery Tool  
+- [ ] Confluence/Jira/Teams Secret Scanning  
+- [ ] Office Macro Malware (T1059, T1204.002)  
+- [ ] Searching Docker Images for Secrets  
+- [ ] Reviewing Scanner Medium Vulns for PrivEsc  
+- [ ] Chaining Medium Vulns for Escalation Paths
+- [ ] Docker Secret Hunting for Token Extraction 
 
-Persistence
+# 🕸️ Web & App Attack Surface
 
-Wireless
+- [ ] Common Web App Misconfig Audit  
+- [ ] Forgotten Web Surfaces (Debug, Metrics, Actuator, etc.)  
+- [ ] GraphQL Attack Surface Enumeration  
+- [ ] Federated Search Diode Bypass (Splunk/Elastic/M365)  
+- [ ] Dependency Confusion in Artifact Repos  
+- [ ] CI/CD Misconfig Scanning (via Nuclei)  
 
-Physical
+# 🎣 Phishing & Social Engineering
 
-Research Projects
+- [ ] Phishing Pretext Template Pack (Internal Tools)  
+- [ ] Voice Deepfake for Helpdesk Abuse  
+- [ ] Automated Phishing Phone Trees  
+- [ ] Office Macro Phish Payloads (MITRE-mapped)  
 
-Documentation
+# 🧱 Post-Exploitation & Privilege Escalation
+
+- [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)  
+- [ ] Agentless macOS Persistence Research  
+- [ ] Cross-Platform Secret Sniper Tool  
+- [ ] AWS PrivEsc via PMapper / Policy Analysis  
+- [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library  
+
+# 🧰 Infrastructure Recon & Exploitation
+
+- [ ] NetBIOS/SMB Enumeration  
+- [ ] NFS Recon & Exploitation  
+- [ ] Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops)  
+- [ ] Printer Hacking  
+- [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)  
+
+# 📡 C2 & Payload Engineering
+
+- [ ] C2 Infrastructure Basics (Mythic / Sliver)  
+- [ ] Advanced Payload Obfuscation & Packers   
+
+# 🔐 Physical Security / RF / Access Control
+
+- [ ] Physical Access Audit Starter Kit  
+- [ ] USB Drop Research (OMG Cable, lure docs)  
+- [ ] Rogue USB-C Dock (Video+KVM+LAN)  
+- [ ] Long-Range RFID Cloner & BLE Relay  
+- [ ] Mobile Wallet vs. Prox Badge Clone & Replay  
+- [ ] Unencrypted RF Eavesdropping (Radios, BLE, mics)  
+
+# 🧪 Vuln Management & Signal Prioritization
+
+- [ ] Reviewing Medium Vulns for Hidden Escalation Paths  
+- [ ] Chaining Mediums into PrivEsc  
+
+# 🧬 Custom Tooling & Automation
+
+- [ ] Git Secret Scanner Tool  
+- [ ] Docker Layer Secret Analysis  
+- [ ] Teams/Confluence/Jira Credential Recon  
+- [ ] GraphQL Fuzzing + Custom Queries  
+- [ ] CI/CD Scan Rule Development  
+
+# 📘 Documentation & Reporting
+
+- [ ] Update Team Wiki
