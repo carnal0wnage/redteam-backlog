@@ -18,7 +18,8 @@ Table of Contents
 - [ ] Searching Docker Images for Secrets  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] Chaining Medium Vulns for Escalation Paths
-- [ ] Docker Secret Hunting for Token Extraction 
+- [ ] Docker Secret Hunting for Token Extraction
+- [ ] [Password Spray Internal Applications](link)
 
 # 🕸️ Web & Various Application Attack Surface
 
