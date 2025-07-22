@@ -14,8 +14,7 @@ Table of Contents
 - [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)  
 - [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
-- [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)  
-- [ ] Office Macro Malware (T1059, T1204.002)  
+- [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] Searching Docker Images for Secrets  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] Chaining Medium Vulns for Escalation Paths
@@ -38,6 +37,7 @@ Table of Contents
 - [ ] Automated Phishing Phone Trees  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
 - [ ] [Initial Access Inovations](/tasks/initial_access_innovations.md)
+- [ ] Office Macro Malware 
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
