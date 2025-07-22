@@ -17,7 +17,6 @@ Table of Contents
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
-- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
@@ -80,12 +79,11 @@ Table of Contents
 # 🧪 Vuln Management & Signal Prioritization
 
 - [ ] Reviewing Medium Vulns for Hidden Escalation Paths  
-- [ ] Chaining Mediums into PrivEsc  
+- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)  
 
 # 🧬 Custom Tooling & Automation
 
 - [ ] Git Secret Scanner Tool  
-- [ ] Docker Layer Secret Analysis  
 - [ ] Teams/Confluence/Jira Credential Recon  
 - [ ] GraphQL Fuzzing + Custom Queries  
 - [ ] CI/CD Scan Rule Development  
