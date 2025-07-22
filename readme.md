@@ -7,7 +7,7 @@ send diffs with yours
 Table of Contents
 =================
 
-# 🧠 Credential & Identity Abuse
+# 🧑‍💻 Credential & Identity Abuse
 
 - [ ] Password Dump Analysis & Spraying  
 - [ ] Valid Accounts & Credential Scenarios  
