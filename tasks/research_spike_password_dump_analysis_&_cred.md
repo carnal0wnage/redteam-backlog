@@ -1,7 +1,7 @@
 # 🛠️ Research Spike: Password Dump Analysis & Credential Testing
 
 **Goal:**  
-Use known password dumps and breach corpuses (e.g., COMB, RockYou2021, domain-specific leaks) to identify valid usernames and passwords for your organization, and test those credentials safely across exposed or internal services.
+Use known password dumps (e.g., COMB, RockYou2021, domain-specific leaks) to identify valid usernames and passwords for your organization, and test those credentials safely across exposed or internal services.
 
 **Why It Matters:**  
 Credential stuffing from breach reuse remains one of the top real-world initial access methods (MITRE T1110.003). This spike strengthens your organization’s credential hygiene visibility, especially for shadow accounts, shared creds, or reused personal logins.
@@ -10,7 +10,7 @@ Credential stuffing from breach reuse remains one of the top real-world initial 
 
 ### ✅ Tasks
 
-- [ ] Download or query breach corpuses (e.g., HaveIBeenPwned, Dehashed, public dumps)
+- [ ] Download or query breach dumps (e.g., HaveIBeenPwned, Dehashed, public dumps)
 - [ ] Extract email addresses / usernames for org domains
 - [ ] Identify commonly reused passwords via frequency analysis
 - [ ] Cross-reference:
