@@ -20,7 +20,7 @@ Table of Contents
 - [ ] Chaining Medium Vulns for Escalation Paths
 - [ ] Docker Secret Hunting for Token Extraction 
 
-# 🕸️ Web & App Attack Surface
+# 🕸️ Web & Various Application Attack Surface
 
 - [ ] Common Web App Misconfig Audit  
 - [ ] Forgotten Web Surfaces (Debug, Metrics, Actuator, etc.)  
