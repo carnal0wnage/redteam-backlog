@@ -11,7 +11,7 @@ Credential stuffing from breach reuse remains one of the top real-world initial 
 ### ✅ Tasks
 
 - [ ] Download or query breach dumps (e.g., HaveIBeenPwned, Dehashed, public dumps)
-- [ ] Extract email addresses / usernames for org domains
+- [ ] Extract email addresses / usernames & passwords for org domains
 - [ ] Identify commonly reused passwords via frequency analysis
 - [ ] Cross-reference:
   - Active directory usernames
