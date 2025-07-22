@@ -1,4 +1,4 @@
-# ## 🧬 Research Spike: Chaining Low Vulns into High Exploitation Paths (Low2Pwned)
+# 🧬 Research Spike: Chaining Low Vulns into High Exploitation Paths (Low2Pwned)
 
 **Goal:**  
 Identify and document how medium (or even low) severity vulnerabilities — especially those ignored by remediation teams — can be chained together to achieve RCE, privilege escalation, lateral movement, or initial foothold elevation in internal environments.
