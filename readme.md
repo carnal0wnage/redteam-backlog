@@ -82,7 +82,7 @@ Table of Contents
 - [ ] [Rogue USB-C Dock (Video+KVM+LAN)](/tasks/research_spike_rogue_usb-c_multi-function_implant.md)  
 - [ ] [Long-Range RFID Cloner](/tasks/research_spike_long-range_rfid_badge_capture.md)  
 - [ ] [Mobile Wallet Application vs. Prox Badge Clone & Replay](/tasks/research_spike_enterprise_badge_clone_vs_mobile_auth.md)  
-- [ ] Unencrypted RF Eavesdropping (Radios, BLE, mics)  
+- [ ] [Unencrypted RF Eavesdropping (Radios, BLE, mics)](/tasks/research_spike_rf_recon.md)  
 
 # 🧪 Vuln Management & Signal Prioritization
 
