@@ -49,8 +49,8 @@ Table of Contents
 - [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
-- [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/link)
-- [ ] Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities  
+- [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
+- [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/link)  
 
 # 🧰 Infrastructure Recon & Exploitation
 
