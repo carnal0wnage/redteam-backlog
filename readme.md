@@ -37,7 +37,8 @@ Table of Contents
 - [ ] Automated Phishing Phone Trees  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
 - [ ] [Initial Access Inovations](/tasks/initial_access_innovations.md)
-- [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md) 
+- [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
+- [ ] [Inital Access Payload Generation (MSI)](link)
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
