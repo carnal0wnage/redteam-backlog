@@ -18,7 +18,7 @@ Table of Contents
 - [ ] Searching Docker Images for Secrets  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] Chaining Low Vulns for Elevated Access (Low2Pwned)
-- [ ] 
+- [ ] TODO
 - [ ] Docker Secret Hunting for Token Extraction
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
@@ -49,6 +49,8 @@ Table of Contents
 - [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
+- [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/link)
+- [ ] Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities  
 
 # 🧰 Infrastructure Recon & Exploitation
 
