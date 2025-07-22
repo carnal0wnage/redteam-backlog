@@ -13,7 +13,7 @@ Table of Contents
 - [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
 - [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)  
 - [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
-- [ ] Github/Gitlab First Party Creds & Configs Discovery Tool
+- [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
 - [ ] Confluence/Jira/Teams Secret Scanning  
 - [ ] Office Macro Malware (T1059, T1204.002)  
 - [ ] Searching Docker Images for Secrets  
