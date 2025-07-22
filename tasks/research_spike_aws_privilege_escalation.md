@@ -1,4 +1,4 @@
-# ## ☁️ Research Spike: AWS Privilege Escalation Analysis with pmapper
+# ☁️ Research Spike: AWS Privilege Escalation Analysis with pmapper
 
 **Goal:**  
 Use `pmapper` (or similar tools) to analyze AWS IAM roles and policies for privilege escalation paths. Identify misconfigurations that would allow a user to escalate to Admin or gain unintended access through permission chaining.
