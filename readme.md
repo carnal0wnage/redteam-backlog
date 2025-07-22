@@ -4,6 +4,10 @@ For all those backlog items/ideas that all red teams need to do :-)
 
 send diffs with yours
 
+## Questions
+* what's a spike? A. A short(ish) research task
+* 
+
 Table of Contents
 =================
 
