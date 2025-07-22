@@ -63,7 +63,7 @@ Table of Contents
 - [ ] Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops)  
 - [ ] Printer Hacking  
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)
-- [ ] [Exposed Version Control Artifacts](/link)
+- [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
 
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
