@@ -9,7 +9,7 @@ Table of Contents
 
 # 🧑‍💻 Credential & Identity Abuse
 
-- [ ] Password Dump Analysis & Spraying  
+- [ ] [Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
 - [ ] Valid Accounts & Credential Scenarios  
 - [ ] Password Spraying O365 / Azure  
 - [ ] GitHub/GitLab Secret Discovery Tool  
