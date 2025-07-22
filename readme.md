@@ -62,7 +62,8 @@ Table of Contents
 - [ ] [NFS Recon & Exploitation](/tasks/research_spike_nfs_share_enumeration_and_exploit.md)  
 - [ ] Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops)  
 - [ ] Printer Hacking  
-- [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)  
+- [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)
+- [ ] [Exposed Version Control Artifacts](/link)
 
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
