@@ -18,13 +18,14 @@ Table of Contents
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)
-- [ ] TODO
+- [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
 # 🕸️ Web & Various Application Attack Surface
 
-- [ ] Common Web App Misconfig Audit  
-- [ ] [Forgotten Web Surfaces (Debug, Metrics, Actuator, etc.)](/tasks/research_spike_debug_or_health_endpoints.md)  
+- [ ] Common Web App Misconfig Audit
+- [ ] [Forgotten Web Surfaces](/link) 
+- [ ] [Identify Debug Endpoints Web Surface (Debug, Metrics, Actuator, etc.)](/tasks/research_spike_debug_or_health_endpoints.md)  
 - [ ] [GraphQL Attack Surface Enumeration](/tasks/research_spike_graphql_attack_surface_enumera.md)  
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
 - [ ] Dependency Confusion in Artifact Repos  
