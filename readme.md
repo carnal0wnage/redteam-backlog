@@ -50,7 +50,7 @@ Table of Contents
 - [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
-- [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/link)  
+- [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)  
 
 # 🧰 Infrastructure Recon & Exploitation
 
