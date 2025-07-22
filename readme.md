@@ -26,7 +26,7 @@ Table of Contents
 - [ ] Common Web App Misconfig Audit  
 - [ ] Forgotten Web Surfaces (Debug, Metrics, Actuator, etc.)  
 - [ ] GraphQL Attack Surface Enumeration  
-- [ ] Federated Search Diode Bypass (Splunk/Elastic/M365)  
+- [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](link)  
 - [ ] Dependency Confusion in Artifact Repos  
 - [ ] CI/CD Misconfig Scanning (via Nuclei)  
 
