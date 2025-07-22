@@ -12,7 +12,7 @@ Table of Contents
 - [ ] [Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
 - [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
 - [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)  
-- [ ] GitHub/GitLab Secret Discovery Tool
+- [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] Github/Gitlab First Party Creds & Configs Discovery Tool
 - [ ] Confluence/Jira/Teams Secret Scanning  
 - [ ] Office Macro Malware (T1059, T1204.002)  
