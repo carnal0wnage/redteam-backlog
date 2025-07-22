@@ -51,7 +51,7 @@ Table of Contents
 - [ ] Agentless macOS Persistence Research  
 - [ ] Cross-Platform Secret Sniper Tool  
 - [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
-- [ ] Living-Off-the-SaaS-Land (LOSL) TTP Library
+- [ ] [Living-Off-the-SaaS-Land (LOSL) TTP Library](/tasks/research_spike_living-off-the-saas-land.md)
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
