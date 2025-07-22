@@ -59,7 +59,7 @@ Table of Contents
 
 # 📡 C2 & Payload Engineering
 
-- [ ] C2 Infrastructure Basics (Mythic / Sliver)  
+- [ ] [C2 Infrastructure Basics (Mythic / Sliver)](link)  
 - [ ] Advanced Payload Obfuscation & Packers
 - [ ] [Custom C2 Channel Development](/tasks/research_spike_custom_c2_channel_development.md)
 
