@@ -1,23 +1,23 @@
 
-# 🧬 Research Spike: Enumerate Persistence Opportunities in MDM-Enrolled Devices
+# 🧬 Research Spike: Enumerate Persistence Opportunities in Corporate Managed Devices
 
 **Goal:**  
-Analyze macOS and Windows devices enrolled in Mobile Device Management (MDM) platforms (e.g., Jamf, Intune) to identify opportunities for achieving persistence via whitelisted paths, misconfigured profiles, or trusted software channels.
+Analyze corporate managed macOS and Windows devices to identify opportunities for achieving persistence via whitelisted paths, misconfigured profiles, or trusted software channels.
 
 **Why It Matters:**  
-MDM-enrolled devices often have tight controls, but those same trusted mechanisms can be abused for long-term persistence. Red teams should understand how to emulate post-compromise persistence techniques in MDM-controlled environments without triggering detections prematurely.
+Corporate Managed devices often have tight controls, but those same trusted mechanisms can be abused for long-term persistence. Red teams should understand how to emulate post-compromise persistence techniques in Corporate Managed environments without triggering detections prematurely.
 
 ---
 
 ### 🔍 Scope
-- macOS and Windows endpoints under MDM control (Jamf, Intune, Kandji, Workspace ONE)
+- macOS and Windows endpoints under Corporate Management
 - User and device profiles, enforced scripts, login items, LaunchAgents, software management
 - Non-destructive testing only
 
 ---
 
 ### ✅ Tasks
-- [ ] Identify MDM agent behavior:
+- [ ] Identify Managed System Behavior:
   - Installed paths
   - Update frequency
   - Script and profile delivery mechanisms
@@ -41,9 +41,9 @@ MDM-enrolled devices often have tight controls, but those same trusted mechanism
 ---
 
 ### 🎯 Deliverables
-- Table of MDM enforcement policies and bypass opportunities
+- Table of corporate policies and bypass opportunities
 - Proof-of-concept persistence techniques (safely demonstrated)
-- Screenshots of MDM behavior or logs confirming payload execution
+- Screenshots or logs confirming payload execution
 - Recommendations for hardening and monitoring MDM-enrolled devices
 
 ---
