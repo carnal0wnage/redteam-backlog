@@ -19,7 +19,7 @@ Table of Contents
 - [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] Chaining Medium Vulns for Escalation Paths
 - [ ] Docker Secret Hunting for Token Extraction
-- [ ] [Password Spray Internal Applications](link)
+- [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
 # 🕸️ Web & Various Application Attack Surface
 
