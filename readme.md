@@ -69,7 +69,7 @@ Table of Contents
 - [ ] Physical Access Audit Starter Kit  
 - [ ] USB Drop Research (OMG Cable, lure docs)  
 - [ ] Rogue USB-C Dock (Video+KVM+LAN)  
-- [ ] Long-Range RFID Cloner & BLE Relay  
+- [ ] [Long-Range RFID Cloner](/tasks/research_spike_long-range_rfid_badge_capture.md)  
 - [ ] [Mobile Wallet Application vs. Prox Badge Clone & Replay](/tasks/research_spike_enterprise_badge_clone_vs_mobile_auth.md)  
 - [ ] Unencrypted RF Eavesdropping (Radios, BLE, mics)  
 
