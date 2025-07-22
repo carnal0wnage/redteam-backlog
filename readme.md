@@ -24,7 +24,7 @@ Table of Contents
 # 🕸️ Web & Various Application Attack Surface
 
 - [ ] Common Web App Misconfig Audit
-- [ ] [Forgotten Web Surfaces](/link) 
+- [ ] [Forgotten Web Surfaces](/tasks/research_spike_forgotten_web_attack_surfaces.md) 
 - [ ] [Identify Debug Endpoints Web Surface (Debug, Metrics, Actuator, etc.)](/tasks/research_spike_debug_or_health_endpoints.md)  
 - [ ] [GraphQL Attack Surface Enumeration](/tasks/research_spike_graphql_attack_surface_enumera.md)  
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
