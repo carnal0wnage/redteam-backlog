@@ -2,7 +2,7 @@
 # 🔍 Research Spike: Internal GitHub/GitLab Dorking for First-Party Secrets and Configurations
 
 **Goal:**  
-Create an internal list of GitHub/GitLab dorks tailored to your company’s CI/CD tools, naming conventions, domains, and service identifiers. Use this list to discover exposed internal secrets, webhook URLs, tokens, or misconfigured pipeline files.
+Create an internal list of GitHub/GitLab dorks tailored to your company’s CI/CD tools, naming conventions, domains, config files, service identifiers, anything sensitive that is company (First Party) specific. Use this list to discover exposed internal secrets, webhook URLs, tokens, or misconfigured pipeline files.
 
 **Why It Matters:**  
 Search dorks that reflect your company's architecture and culture are far more effective than generic ones. By customizing searches for secrets and sensitive configs, red teams can proactively identify exposures — while blue teams can better tune secrets detection pipelines.
