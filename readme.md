@@ -50,16 +50,19 @@ Table of Contents
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
-- [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)  
-- [ ] Agentless macOS Persistence Research  
+- [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)   
 - [ ] Cross-Platform Secret Sniper Tool  
 - [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] [Living-Off-the-SaaS-Land (LOSL) TTP Library](/tasks/research_spike_living-off-the-saas-land.md)
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
-- [ ] [Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)
-- [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities  
+- [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
+
+# Persistence
+- [ ] Agentless macOS Persistence
+- [ ] [Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)  
+
 
 # 🧰 Infrastructure Recon & Exploitation
 
