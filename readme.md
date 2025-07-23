@@ -13,6 +13,9 @@ send diffs with yours
 
 * Q. I have an idea can I contribute. Ans. Absolutely we take diffs (use the template) or create an issue and someone will get around to updating the particular task.
 
+## Contributors
+carnal0wnage, 
+
 Table of Contents
 =================
 
@@ -22,6 +25,10 @@ Table of Contents
 - [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
 - [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
+- [ ] Credential Stuffing Against SaaS Apps (Google Workspace, Salesforce, Zoom) (NEEDS TEMPLATE)
+- [ ] Session Token Replay Tests (NEEDS TEMPLATE)
+- [ ] ADCS (Active Directory Certificate Services) Abuse (NEEDS TEMPLATE)
+- [ ] Passwordless Auth Bypass Research (FIDO2/WebAuthn fallback handling) (NEEDS TEMPLATE)
 
 
 # 🗝️ Secrets Managment
@@ -32,6 +39,9 @@ Table of Contents
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] [Scan CI/CD Logs for Secrets](/tasks/scan_ci_logs_for_secrets.md)
 - [ ] Explore Azure Key Vault or AWS Secrets Manager Misconfigurations
+- [ ] Cloud Metadata API Abuse (IAM creds from EC2 metadata or GCP instance tokens) (NEEDS TEMPLATE)
+- [ ] Hunting Secrets in Shared Cloud Storage (e.g., S3 buckets with shared links) (NEEDS TEMPLATE)
+- [ ] Hardcoded Secrets in Mobile APKs or Electron Apps (NEEDS TEMPLATE)
 
 # 🕸️ Web & Various Application Attack Surface
 
@@ -51,6 +61,10 @@ Table of Contents
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] Enumerate Apps with risky OAuth scopes
 - [ ] Audit OAuth App Registrations in Azure / Google
+- [ ] Browser Extension Security Review (NEEDS TEMPLATE)
+- [ ] Exploitation of Misconfigured CSP / CORS Headers (NEEDS TEMPLATE)
+- [ ] Testing for DOM-based XSS in Internal Apps (NEEDS TEMPLATE)
+- [ ] gRPC Endpoint Enumeration and Fuzzing (NEEDS TEMPLATE)
 
 # 🎣 Phishing & Social Engineering
 
@@ -65,6 +79,9 @@ Table of Contents
 - [ ] [Initial Access - Windows - Alternate Scripting Languages for Payload Delivery](/tasks/alternate_binary_payload_delivery.md)
 - [ ] Create Malicious OAuth App for Phishing
 - [ ] Abuse Jira/Confluence Macros or Web Panels for Payload Delivery
+- [ ] Consent Phishing Simulation & Detection Evasion (NEEDS TEMPLATE)
+- [ ] Targeted QR Code Phishing Pretext Design (NEEDS TEMPLATE)
+- [ ] Compromised OAuth Token Refresh Lifecycle Analysis (NEEDS TEMPLATE)
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
@@ -83,6 +100,10 @@ Table of Contents
 - [ ] Create a Fake Service to Capture Vulnerability Scanner Logins
 - [ ] Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection
 - [ ] Abuse Misconfigured .npmrc, .pypirc, .dockerconfig Files
+- [ ] Use of ADS (Alternate Data Streams) for File Hiding on Windows (NEEDS TEMPLATE)
+- [ ] Abuse Windows Shadow Copies for Persistence / Recovery (NEEDS TEMPLATE)
+- [ ] macOS TCC DB Tampering Scenarios (NEEDS TEMPLATE)
+- [ ] macOS Shortcuts Automation Abuse (NEEDS TEMPLATE)
 
 # 📌 Persistence
 - [ ] [macOS - Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
@@ -90,6 +111,9 @@ Table of Contents
 - [ ] Create a Malicious Outlook Add-in
 - [ ] Create a Malicious IDE Plugin for Red Team Use
 - [ ] Abuse Google Workspace OAuth Scopes to Persist & Read User Mail
+- [ ] Browser-Based Persistence Mechanisms (NEEDS TEMPLATE)
+- [ ] Persistence in WMI Subscriptions (NEEDS TEMPLATE)
+- [ ] Slack or Teams Bot Persistence (NEEDS TEMPLATE)
 
 
 # 🧰 Infrastructure Recon & Exploitation
@@ -102,10 +126,19 @@ Table of Contents
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
 - [ ] [Enumerate Internal Admin Portals](/tasks/research_spike_discovering_internal_admin_portals.md)
 - [ ] Assessing Jira & Confluence Security
+- [ ] IPv6-Only Network Reconnaissance (NEEDS TEMPLATE)
+- [ ] Lateral Movement via Misconfigured Container Networking (NEEDS TEMPLATE)
+- [ ] DNS Zone Transfer or Subdomain Takeover on Internal Services (NEEDS TEMPLATE)
 
 # 🌩️ Cloud
 - [ ] [AWS - PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] Exploit Secrets in Downstream Services (Containers, Lambda, etc.)
+- [ ] Cloud Function Abuse for Callback Persistence (e.g., AWS Lambda, GCP Cloud Functions) (NEEDS TEMPLATE)
+- [ ] CloudTrail or GCP Audit Log Evasion Techniques (NEEDS TEMPLATE)
+- [ ] Analysis of Org-Wide Roles vs. Project Roles in GCP (NEEDS TEMPLATE)
+- [ ] Azure Automation Account Abuse (NEEDS TEMPLATE)
+- [ ] Storage Bucket (S3/GCS) Policy Bypass Tactics (NEEDS TEMPLATE)
+
 
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
@@ -117,6 +150,9 @@ Table of Contents
 - [ ] [Create a Long-Term Stealth C2 Using Legit Cloud Channels](/tasks/stealth_cloud_c2.md)
 - [ ] Create a New C2 Channel for Mythic
 - [ ] Create a Sliver or Mythic Profile Mimicking Corporate TLS Patterns
+- [ ] Side-Loading Legitimate DLLs for C2 Execution (NEEDS TEMPLATE)
+- [ ] Malicious Container Image for Initial Access or Persistence (NEEDS TEMPLATE)
+- [ ] Use of AI Model APIs (e.g., GPT, Claude) as C2 Channels (NEEDS TEMPLATE)
 
 # 🔐 Physical Security / RF / Access Control
 
@@ -126,11 +162,15 @@ Table of Contents
 - [ ] [Rogue USB-C Dock (Video+KVM+LAN)](/tasks/research_spike_rogue_usb-c_multi-function_implant.md)  
 - [ ] [Long-Range RFID Cloner](/tasks/research_spike_long-range_rfid_badge_capture.md)  
 - [ ] [Mobile Wallet Application vs. Prox Badge Clone & Replay](/tasks/research_spike_enterprise_badge_clone_vs_mobile_auth.md)  
-- [ ] [Unencrypted RF Eavesdropping (Radios, BLE, mics)](/tasks/research_spike_rf_recon.md)  
+- [ ] [Unencrypted RF Eavesdropping (Radios, BLE, mics)](/tasks/research_spike_rf_recon.md)
+- [ ] Signal Analysis of Mobile Credential BLE Advertisements (NEEDS TEMPLATE)
+- [ ] Attack Scenarios Against Modern Smart Locks (NEEDS TEMPLATE)
+- [ ] Malicious Firmware Analysis for HID Reader Clones (NEEDS TEMPLATE)
 
 # 🧪 Vuln Management & Signal Prioritization
  
-- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned) - Quarterly](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)  
+- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned) - Quarterly](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)
+- [ ] Weaponize a Poc exploit for services/applications the company uses (NEEDS TEMPLATE)
 
 # 🧬 Custom Tooling & Automation
 
@@ -139,12 +179,14 @@ Table of Contents
 - [ ] GraphQL Fuzzing + Custom Queries  
 - [ ] CI/CD Scan Rule Development
 - [ ] [Tool - GitHub/GitLab Secret Discovery](/tasks/research_spike_github-gitlab_secret_search_to.md)
+- [ ] Tool to Auto-Correlate Secrets Found Across Logs, Containers, Git (NEEDS TEMPLATE)
+- [ ] Browser Extension to Help Red Teamers Enumerate Apps (NEEDS TEMPLATE)
+- [ ] Malware Config Extractor Tool for Internal Threat Intel (NEEDS TEMPLATE)
+- [ ] 
 
 # 📘 Documentation & Reporting
 
 - [ ] Update Team Wiki
 - [ ] Update $Process SOP or Wiki
 - [ ] Create Vulnerability Trends from Past Pentests and Red Team Operations
-- [ ] TODO
-
-
+- [ ] Document Alert Evasion Patterns for Repeat Testing (NEEDS TEMPLATE)
