@@ -13,7 +13,7 @@ Table of Contents
 
 # 🧑‍💻 Credential & Identity Abuse
 
-- [ ] [Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
+- [ ] [Public Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
 - [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
 - [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
@@ -52,7 +52,6 @@ Table of Contents
 
 - [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)   
 - [ ] Cross-Platform Secret Sniper Tool  
-- [ ] [AWS PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
 - [ ] [Living-Off-the-SaaS-Land (LOSL) TTP Library](/tasks/research_spike_living-off-the-saas-land.md)
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
@@ -74,6 +73,9 @@ Table of Contents
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
 - [ ] [Enumerate Internal Admin Portals](/tasks/research_spike_discovering_internal_admin_portals.md)
 
+# 🌩️ Cloud
+- [ ] [AWS - PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
+
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
 - [ ] [C2 Infrastructure Basics (Mythic / Sliver)](/tasks/research_spike_c2_infrastructure_basics.md)  
@@ -94,8 +96,7 @@ Table of Contents
 - [ ] [Unencrypted RF Eavesdropping (Radios, BLE, mics)](/tasks/research_spike_rf_recon.md)  
 
 # 🧪 Vuln Management & Signal Prioritization
-
-- [ ] Reviewing Medium Vulns for Hidden Escalation Paths  
+ 
 - [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)  
 
 # 🧬 Custom Tooling & Automation
