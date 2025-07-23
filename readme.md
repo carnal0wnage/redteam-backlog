@@ -9,7 +9,7 @@ send diffs with yours
   
 * Q. Why? Ans. I always fail to take my list of backlog items when I leave a place and I'm tired of trying to remember all of them. So now I'm crowdsourcing something for all Red Team managers/leads
   
-* Q. Did ChatGPT make these?  Ans. A lot of of them with the main ideas coming from me and other Red Team leads. Inspect things closely for potential AI nonsense. Please create issues or diffs for stuff that doesn't make sense so i can update them.
+* Q. Did ChatGPT make these?  Ans. A lot of of them with the main ideas coming from me and other Red Team leads. Inspect things closely for potential AI nonsense. Please create issues or diffs for stuff that doesn't make sense so I can update them.
 
 * Q. I have an idea can I contribute? Ans. Absolutely we take diffs (use the template) or create an issue and someone will get around to updating the particular task.
 
