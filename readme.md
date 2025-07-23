@@ -43,6 +43,7 @@ Table of Contents
 - [ ] Voice Deepfake for Helpdesk Abuse  
 - [ ] Automated Phishing Phone Trees  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
+- [ ] [Test Internal Email Filtering Rules[(/link)
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
 - [ ] [Initial Access - Windows - Payload Generation (MSI)](/tasks/msi_payload_delivery.md)
