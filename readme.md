@@ -15,13 +15,16 @@ Table of Contents
 
 - [ ] [Password Dump Analysis & Spraying](/tasks/research_spike_password_dump_analysis_&_cred.md)
 - [ ] [Identify Sensitive Services That Don't Require MFA](/tasks/research_spike_mfa_gaps_services_access.md)  
-- [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)  
+- [ ] [Password Spraying O365 / Azure](/tasks/research_spike_password_spraying_office_365.md)
+- [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
+
+
+# 🗝️ Secrets Managment
 - [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
-- [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
 # 🕸️ Web & Various Application Attack Surface
 
