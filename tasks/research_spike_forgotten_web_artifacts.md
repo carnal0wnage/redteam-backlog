@@ -1,4 +1,4 @@
-# 🕳️ Research Spike: Forgotten Web Attack Surfaces
+# 🕳️ Research Spike: Forgotten Web Artifacts
 
 **Goal:**  
 Identify and test forgotten or unintended web-accessible artifacts (e.g., `.git`, `.env`, `.DS_Store`, `.htaccess`, backup files, temp files) that can leak sensitive data or enable attackers to pivot further into the environment. Create a reusable checklist or scanner template for future use.
