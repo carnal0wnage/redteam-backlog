@@ -5,8 +5,9 @@ For all those backlog items/ideas that all red teams need to do :-)
 send diffs with yours
 
 ## Questions
-* Q. What's a spike? A. A short(ish) research task
-* 
+* Q. What's a spike? Ans. A short(ish) research task.
+* Q. Why? Ans. I always fail to take my list of backlog items when I leave a place and I'm tired of trying to remember all of them. So now I'm crowdsourcing something for all Red Team managers/leads
+* Q. Did ChatGPT make these?  Ans. A lot of of them with the main ideas coming from me and other Red Team leads. Inspect things closely for potential AI nonsense. Please create issues or diffs for stuff that doesn't make sense
 
 Table of Contents
 =================
