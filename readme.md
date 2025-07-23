@@ -60,7 +60,7 @@ Table of Contents
 - [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
 
 # Persistence
-- [ ] Agentless macOS Persistence
+- [ ] [Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
 - [ ] [Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)  
 
 
