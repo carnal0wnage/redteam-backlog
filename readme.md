@@ -26,7 +26,7 @@ Table of Contents
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
-- [ ] Scan CI/CD Logs for Secrets
+- [ ] [Scan CI/CD Logs for Secrets](/tasks/scan_ci_logs_for_secrets.md)
 
 # 🕸️ Web & Various Application Attack Surface
 
