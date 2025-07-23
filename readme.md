@@ -79,7 +79,7 @@ Table of Contents
 - [ ] [C2 Infrastructure Basics (Mythic / Sliver)](/tasks/research_spike_c2_infrastructure_basics.md)  
 - [ ] [Advanced Payload Obfuscation & Packers](/tasks/research_spike_advanced_payload_obfuscation_and_packers.md)
 - [ ] [Custom C2 Channel Development](/tasks/research_spike_custom_c2_channel_development.md)
-- [ ] Create Virtual Macines of Corporate Builds for testing
+- [ ] [Create Virtual Macines of Corporate Builds for testing](/tasks/create_corp_os_vms.md)
 - [ ] Create terraform/ansible scripts for attack box builds
 
 # 🔐 Physical Security / RF / Access Control
