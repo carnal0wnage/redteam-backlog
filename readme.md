@@ -20,7 +20,7 @@ Table of Contents
 
 
 # 🗝️ Secrets Managment
-- [ ] [GitHub/GitLab Secret Discovery Tool](/tasks/research_spike_github-gitlab_secret_search_to.md)
+
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
@@ -96,7 +96,8 @@ Table of Contents
 - [ ] Git Secret Scanner Tool  
 - [ ] Teams/Confluence/Jira Credential Recon  
 - [ ] GraphQL Fuzzing + Custom Queries  
-- [ ] CI/CD Scan Rule Development  
+- [ ] CI/CD Scan Rule Development
+- [ ] [Tool - GitHub/GitLab Secret Discovery](/tasks/research_spike_github-gitlab_secret_search_to.md)
 
 # 📘 Documentation & Reporting
 
