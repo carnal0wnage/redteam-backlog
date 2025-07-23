@@ -97,7 +97,7 @@ Table of Contents
 
 # 🧪 Vuln Management & Signal Prioritization
  
-- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned)](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)  
+- [ ] [Chaining Low Vulns for Elevated Access (Low2Pwned) - Quarterly](/tasks/research_spike_chaining_low_vulns_into_pwned_things.md)  
 
 # 🧬 Custom Tooling & Automation
 
