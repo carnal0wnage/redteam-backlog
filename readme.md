@@ -56,7 +56,7 @@ Table of Contents
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
-- [ ] [Enumerate Persistence Opportunities in MDM-Enrolled Devices](/tasks/enumerate_managed_device_persistence.md)
+- [ ] [Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)
 - [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities  
 
 # 🧰 Infrastructure Recon & Exploitation
