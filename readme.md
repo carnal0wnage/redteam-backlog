@@ -64,7 +64,7 @@ Table of Contents
 - [ ] [Printer Hacking & Lateral Movement](/tasks/research_spike_printer_hacking_and_lateral_movement.md)  
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
-- [ ] [Enumerate Internal Admin Portals](/link)
+- [ ] [Enumerate Internal Admin Portals](/tasks/research_spike_discovering_internal_admin_portals.md)
 
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
