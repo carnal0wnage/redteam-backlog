@@ -90,7 +90,8 @@ Table of Contents
 # 🔐 Physical Security / RF / Access Control
 
 - [ ] Physical Access Audit Starter Kit  
-- [ ] USB Drop Research (OMG Cable, lure docs)  
+- [ ] USB Drop Research (OMG Cable, lure docs)
+- [ ] [RFID Relay Attacks via BLE / Wi-Fi (Badge Replay)](/link)
 - [ ] [Rogue USB-C Dock (Video+KVM+LAN)](/tasks/research_spike_rogue_usb-c_multi-function_implant.md)  
 - [ ] [Long-Range RFID Cloner](/tasks/research_spike_long-range_rfid_badge_capture.md)  
 - [ ] [Mobile Wallet Application vs. Prox Badge Clone & Replay](/tasks/research_spike_enterprise_badge_clone_vs_mobile_auth.md)  
