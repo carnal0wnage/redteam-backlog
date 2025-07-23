@@ -22,10 +22,11 @@ Table of Contents
 # 🗝️ Secrets Managment
 
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
-- [ ] Run TruffleHog against internal git repos
+- [ ] Run TruffleHog Against Internal git Repos
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
+- [ ] Scan CI/CD Logs for Secrets
 
 # 🕸️ Web & Various Application Attack Surface
 
