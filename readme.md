@@ -59,9 +59,9 @@ Table of Contents
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
 - [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
 
-# Persistence
-- [ ] [Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
-- [ ] [Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)  
+# 📌 Persistence
+- [ ] [macOS - Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
+- [ ] [Windows - Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md) 
 
 
 # 🧰 Infrastructure Recon & Exploitation
