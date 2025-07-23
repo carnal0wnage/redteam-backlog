@@ -81,6 +81,7 @@ Table of Contents
 - [ ] [Custom C2 Channel Development](/tasks/research_spike_custom_c2_channel_development.md)
 - [ ] [Create Virtual Macines of Corporate Builds for testing](/tasks/create_corp_os_vms.md)
 - [ ] Create terraform/ansible scripts for attack box builds
+- [ ] [Create a Long-Term Stealth C2 Using Legit Cloud Channels](/link)
 
 # 🔐 Physical Security / RF / Access Control
 
