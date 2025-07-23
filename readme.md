@@ -25,8 +25,8 @@ Table of Contents
 - [ ] [Run TruffleHog Against Internal git Repos](/tasks/enumerate_hardcoded_secrets.md)
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
-- [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] [Scan CI/CD Logs for Secrets](/tasks/scan_ci_logs_for_secrets.md)
+- [ ] Explore Azure Key Vault or AWS Secrets Manager Misconfigurations
 
 # 🕸️ Web & Various Application Attack Surface
 
@@ -34,8 +34,18 @@ Table of Contents
 - [ ] [Identify Debug Endpoints Web Surface (Debug, Metrics, Actuator, etc.)](/tasks/research_spike_debug_or_health_endpoints.md)  
 - [ ] [GraphQL Attack Surface Enumeration](/tasks/research_spike_graphql_attack_surface_enumera.md)  
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
-- [ ] Dependency Confusion in Artifact Repos  
-- [ ] CI/CD Misconfig Scanning (via Nuclei)  
+- [ ] Dependency Confusion in Artifact Repos
+- [ ] Identify Internal Software Libraries for Supply Chain Attack Risk 
+- [ ] Audit CI/CD Pipelines for Misconfigurations & Abuse Paths
+- [ ] Create Nuclei Scans + Custom Templates for Internal Apps
+- [ ] Test for Secret Theft via CI Variables
+- [ ] Test for Misuse of OAuth Refresh Tokens in M365/GWS
+- [ ] Enumerate Overly Permissive OAuth Scopes
+- [ ] Test for Open Redirects
+- [ ] Research JWT Token Validation for Internal Apps
+- [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
+- [ ] Enumerate Apps with risky OAuth scopes
+- [ ] Audit OAuth App Registrations in Azure / Google
 
 # 🎣 Phishing & Social Engineering
 
@@ -48,6 +58,8 @@ Table of Contents
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
 - [ ] [Initial Access - Windows - Payload Generation (MSI)](/tasks/msi_payload_delivery.md)
 - [ ] [Initial Access - Windows - Alternate Scripting Languages for Payload Delivery](/tasks/alternate_binary_payload_delivery.md)
+- [ ] Create Malicious OAuth App for Phishing
+- [ ] Abuse Jira/Confluence Macros or Web Panels for Payload Delivery
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
@@ -58,10 +70,21 @@ Table of Contents
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
 - [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
+- [ ] Samba Server for Legitimate DCSync Attack Simulation
+- [ ] Simulate a Malicious Insider with Developer Tool Access
+- [ ] Create a Local Privilege Escalation Checklist Script for macOS
+- [ ] Create an Internal Recon Script with SharpHound-lite Features
+- [ ] Write a Shell Script to Find Passwords on Linux and macOS
+- [ ] Create a Fake Service to Capture Vulnerability Scanner Logins
+- [ ] Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection
+- [ ] Abuse Misconfigured .npmrc, .pypirc, .dockerconfig Files
 
 # 📌 Persistence
 - [ ] [macOS - Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
-- [ ] [Windows - Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md) 
+- [ ] [Windows - Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)
+- [ ] Create a Malicious Outlook Add-in
+- [ ] Create a Malicious IDE Plugin for Red Team Use
+- [ ] Abuse Google Workspace OAuth Scopes to Persist & Read User Mail
 
 
 # 🧰 Infrastructure Recon & Exploitation
@@ -73,9 +96,11 @@ Table of Contents
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
 - [ ] [Enumerate Internal Admin Portals](/tasks/research_spike_discovering_internal_admin_portals.md)
+- [ ] Assessing Jira & Confluence Security
 
 # 🌩️ Cloud
 - [ ] [AWS - PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
+- [ ] Exploit Secrets in Downstream Services (Containers, Lambda, etc.)
 
 # 📡 Red Team Infrastructure, C2, & Payload Engineering
 
@@ -86,6 +111,7 @@ Table of Contents
 - [ ] Create terraform/ansible scripts for attack box builds
 - [ ] [Create a Long-Term Stealth C2 Using Legit Cloud Channels](/tasks/stealth_cloud_c2.md)
 - [ ] Create a New C2 Channel for Mythic
+- [ ] Create a Sliver or Mythic Profile Mimicking Corporate TLS Patterns
 
 # 🔐 Physical Security / RF / Access Control
 
