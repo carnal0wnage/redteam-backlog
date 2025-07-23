@@ -20,13 +20,11 @@ Table of Contents
 - [ ] [GitHub/Gitlab First Party Creds & Configs Discovery Tool](/tasks/github_gitlab_internal_dorking.md)
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
-- [ ] Reviewing Scanner Medium Vulns for PrivEsc  
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] [Password Spray Internal Applications](/tasks/password_spraying_internal_login.md)
 
 # 🕸️ Web & Various Application Attack Surface
 
-- [ ] Common Web App Misconfig Audit
 - [ ] [Forgotten Web Surfaces](/tasks/research_spike_forgotten_web_attack_surfaces.md) 
 - [ ] [Identify Debug Endpoints Web Surface (Debug, Metrics, Actuator, etc.)](/tasks/research_spike_debug_or_health_endpoints.md)  
 - [ ] [GraphQL Attack Surface Enumeration](/tasks/research_spike_graphql_attack_surface_enumera.md)  
