@@ -99,7 +99,7 @@ Table of Contents
 - [ ] Create an Internal Recon Script with SharpHound-lite Features
 - [ ] Write a Shell Script to Find Passwords on Linux and macOS
 - [ ] Create a Fake Service to Capture Vulnerability Scanner Logins
-- [ ] Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection
+- [ ] [Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection](/tasks/auto_pivot_with_ssh_proxychains.md)
 - [ ] Abuse Misconfigured .npmrc, .pypirc, .dockerconfig Files
 - [ ] Use of ADS (Alternate Data Streams) for File Hiding on Windows (NEEDS TEMPLATE)
 - [ ] Abuse Windows Shadow Copies for Persistence / Recovery (NEEDS TEMPLATE)
