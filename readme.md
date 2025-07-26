@@ -10,7 +10,7 @@ A list of generic Red Team "backlog" items that most Red Teams would do to prep 
   
 * Q. Did ChatGPT make these?  Ans. A lot of of them with the main ideas coming from me and other Red Team leads. Inspect things closely for potential AI nonsense. Please create issues or diffs for stuff that doesn't make sense so I can update them.
 
-* Q. I have an idea can I contribute? Ans. Absolutely we take diffs (use the template) or create an issue and someone will get around to updating the particular task.
+* Q. I have an idea can I contribute? Ans. Absolutely! I take diffs (use the template) or create an issue and someone will get around to updating the particular task.
 
 ## Contributors
 carnal0wnage, 
