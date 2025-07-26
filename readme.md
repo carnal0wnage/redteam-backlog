@@ -113,7 +113,7 @@ Table of Contents
 # 📌 Persistence
 - [ ] [macOS - Agentless macOS Persistence](/tasks/research_spike_agentless_macos_persistence.md)
 - [ ] [Windows - Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)
-- [ ] Create a Malicious Outlook Add-in
+- [ ] [Create a Malicious Outlook Add-in](/tasks/malicious_outlook_addin.md)
 - [ ] [Create a Malicious IDE Plugin for Red Team Use](/tasks/malicious_ide_plugin.md)
 - [ ] Abuse Google Workspace OAuth Scopes to Persist & Read User Mail
 - [ ] Browser-Based Persistence Mechanisms (NEEDS TEMPLATE)
