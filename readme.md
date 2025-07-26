@@ -52,7 +52,7 @@ Table of Contents
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
 - [ ] [Test for Dependency Confusion in Artifact Repos](/tasks/research_spike_dependency_confusion_inside_internal_repos.md)
 - [ ] Identify Internal Software Libraries for Supply Chain Attack Risk 
-- [ ] Audit CI/CD Pipelines for Misconfigurations & Abuse Paths
+- [ ] [Audit CI/CD Pipelines for Misconfigurations & Abuse Paths](/tasks/ci_pipeline_abuse.md)
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
 - [ ] Test for Secret Theft via CI Variables
 - [ ] [Test for Misuse of OAuth Refresh Tokens in M365/GWS](/tasks/test_oauth_refresh_token_abuse.md)
