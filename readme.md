@@ -90,15 +90,14 @@ Table of Contents
 
 - [ ] [Post-Exploitation Scripting for Password File Discovery(Windows)](/tasks/research_spike_post-exploitation_scripting_for_windows.md)
 - [ ] [Post-Exploitation Scripting for Password File Discovery (Linux)](/tasks/research_spike_post-exploitation_scripting_for_linux.md)
-- [ ] [Post-Exploitation Scripting for Password File Discovery (macOS)](/tasks/research_spike_post-exploitation_scripting_for_macOS.md)   
-- [ ] Cross-Platform Secret Sniper Tool  
+- [ ] [Post-Exploitation Scripting for Password File Discovery (macOS)](/tasks/research_spike_post-exploitation_scripting_for_macOS.md)    
 - [ ] [Living-Off-the-SaaS-Land (LOSL) TTP Library](/tasks/research_spike_living-off-the-saas-land.md)
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
 - [ ] [Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities](/tasks/evaluate_software_deployment_tools.md)
 - [ ] [Samba Server for Legitimate DCSync Attack Simulation](tasks/samba_dcsync_simulation.md)
-- [ ] Simulate a Malicious Insider with Developer Tool Access
+- [ ] [Simulate a Malicious Insider with Developer Tool Access](/tasks/malicious_insider_simulation_devtools.md)
 - [ ] [Create a Local Privilege Escalation Checklist Script for macOS](/tasks/macos_lpe_checklist_script.md)
 - [ ] [Create an Internal Recon Script with SharpHound-lite Features](/tasks/internal_recon_sharphound_lite.md)
 - [ ] [Write a Shell Script to Find Passwords on Linux and macOS](/tasks/find_passwords_shell_script.md)
