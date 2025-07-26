@@ -10,6 +10,7 @@ A list of generic Red Team "backlog" items that most Red Teams would do to prep 
   
 * Q. Did ChatGPT make these?  Ans. A lot of of them with the main ideas coming from me and other Red Team leads. Inspect things closely for potential AI nonsense. Please create issues or diffs for stuff that doesn't make sense so I can update them.
 
+## Contribute
 * Q. I have an idea can I contribute? Ans. Absolutely! I take diffs (use the template) or create an issue and someone will get around to updating the particular task.
 
 ## Contributors
@@ -71,7 +72,7 @@ Table of Contents
 - [ ] [Phishing Pretext Template Pack](/tasks/research_spike_phishing_pretext_template_pack.md)  
 - [ ] [Voice Deepfake for Helpdesk Abuse](/tasks/research_spike_real-time_deepfake_voice_for_helpdesk_abuse.md)  
 - [ ] [Automated Phishing Phone Trees](/tasks/research_spike_automated_phishing_phone_tree.md)  
-- [ ] Office Macro Phish Payloads (MITRE-mapped)
+- [ ] Create Office Macro Phish Payloads (NEEDS TEMPLATE)
 - [ ] [Test Internal Email Filtering Rules](/tasks/test_internal_email_filtering.md)
 - [ ] [Test Email Spoofing Tests (SPF/DKIM/DMARC)](/tasks/research_spike_email_spoofing_tests_(spf-dkim).md)
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
@@ -114,7 +115,7 @@ Table of Contents
 - [ ] [Windows - Enumerate Persistence Opportunities in Corporate Managed Devices](/tasks/enumerate_managed_device_persistence.md)
 - [ ] [Create a Malicious Outlook Add-in](/tasks/malicious_outlook_addin.md)
 - [ ] [Create a Malicious IDE Plugin for Red Team Use](/tasks/malicious_ide_plugin.md)
-- [ ] Abuse Google Workspace OAuth Scopes to Persist & Read User Mail
+- [ ] Abuse Google Workspace OAuth Scopes to Persist & Read User Mail](/link)
 - [ ] Browser-Based Persistence Mechanisms (NEEDS TEMPLATE)
 - [ ] Persistence in WMI Subscriptions (NEEDS TEMPLATE)
 - [ ] Slack or Teams Bot Persistence (NEEDS TEMPLATE)
@@ -150,9 +151,9 @@ Table of Contents
 - [ ] [Advanced Payload Obfuscation & Packers](/tasks/research_spike_advanced_payload_obfuscation_and_packers.md)
 - [ ] [Custom C2 Channel Development](/tasks/research_spike_custom_c2_channel_development.md)
 - [ ] [Create Virtual Macines of Corporate Builds for testing](/tasks/create_corp_os_vms.md)
-- [ ] Create terraform/ansible scripts for attack box builds
+- [ ] Create terraform/ansible scripts for attack box builds (NEEDS TEMPLATE)
 - [ ] [Create a Long-Term Stealth C2 Using Legit Cloud Channels](/tasks/stealth_cloud_c2.md)
-- [ ] Create a New C2 Channel for Mythic
+- [ ] Create a New C2 Channel for Mythic or other OST (NEEDS TEMPLATE)
 - [ ] [Create a Sliver or Mythic Profile Mimicking Corporate TLS Patterns](/tasks/sliver_mythic_tls_profile.md)
 - [ ] Side-Loading Legitimate DLLs for C2 Execution (NEEDS TEMPLATE)
 - [ ] Malicious Container Image for Initial Access or Persistence (NEEDS TEMPLATE)
@@ -160,7 +161,7 @@ Table of Contents
 
 # 🔐 Physical Security / RF / Access Control
 
-- [ ] Physical Access Audit Starter Kit  
+- [ ] Physical Access Audit Starter Kit (NEEDS TEMPLATE) 
 - [ ] [USB Drop Research (OMG Cable, lure docs)](/tasks/research_spike_usb_drop_and_leave_behinds.md)
 - [ ] [RFID Relay Attacks via BLE / Wi-Fi (Badge Replay)](/tasks/research_spike_rfid_relay_attacks.md)
 - [ ] [Rogue USB-C Dock (Video+KVM+LAN)](/tasks/research_spike_rogue_usb-c_multi-function_implant.md)  
@@ -178,10 +179,8 @@ Table of Contents
 
 # 🧬 Custom Tooling & Automation
 
-- [ ] Git Secret Scanner Tool  
 - [ ] [Tool - Teams Credential Recon](/tasks/research_spike_microsoft_teams_channel_secrets.md)
-- [ ] /Confluence/Jira Credential Recon  
-- [ ] CI/CD Scan Rule Development
+- [ ] Confluence/Jira Credential Recon  (NEEDS TEMPLATE)
 - [ ] [Tool - GitHub/GitLab Secret Discovery](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] Tool to Auto-Correlate Secrets Found Across Logs, Containers, Git (NEEDS TEMPLATE)
 - [ ] Browser Extension to Help Red Teamers Enumerate Apps (NEEDS TEMPLATE)
