@@ -1,4 +1,4 @@
-# 🔐 Research Spike: Enumerate AWS IAM Users with Inline Secrets
+# 🔐 Research Spike: Enumerate AWS Services with Embedded Secrets
 
 **Goal:**  
 Identify AWS IAM users or services that have secrets (e.g., API keys, credentials, tokens) embedded in their inline policies, EC2 descriptions text, or exposed through environment variables in Lambda functions.
