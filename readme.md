@@ -181,7 +181,8 @@ Table of Contents
 # 🧬 Custom Tooling & Automation
 
 - [ ] Git Secret Scanner Tool  
-- [ ] Teams/Confluence/Jira Credential Recon  
+- [ ] Teams Credential Recon](/link)
+- [ ] /Confluence/Jira Credential Recon  
 - [ ] CI/CD Scan Rule Development
 - [ ] [Tool - GitHub/GitLab Secret Discovery](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] Tool to Auto-Correlate Secrets Found Across Logs, Containers, Git (NEEDS TEMPLATE)
