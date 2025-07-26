@@ -37,7 +37,7 @@ Table of Contents
 - [ ] [Confluence/Jira Secret Scanning](/tasks/research_spike_search_confluence_jira_credentials.md)   
 - [ ] [Searching Docker Images for Secrets](/tasks/research_spike_unpacking_docker_containers_for_secrets.md)  
 - [ ] [Scan CI/CD Logs for Secrets](/tasks/scan_ci_logs_for_secrets.md)
-- [ ] Explore Azure Key Vault or AWS Secrets Manager Misconfigurations
+- [ ] Explore Azure Key Vault or AWS Secrets Manager Misconfigurations (NEEDS TEMPLATE)
 - [ ] Cloud Metadata API Abuse (IAM creds from EC2 metadata or GCP instance tokens) (NEEDS TEMPLATE)
 - [ ] Hunting Secrets in Shared Cloud Storage (e.g., S3 buckets with shared links) (NEEDS TEMPLATE)
 - [ ] Hardcoded Secrets in Mobile APKs or Electron Apps (NEEDS TEMPLATE)
@@ -99,7 +99,7 @@ Table of Contents
 - [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
 - [ ] Samba Server for Legitimate DCSync Attack Simulation
 - [ ] Simulate a Malicious Insider with Developer Tool Access
-- [ ] Create a Local Privilege Escalation Checklist Script for macOS
+- [ ] [Create a Local Privilege Escalation Checklist Script for macOS](/tasks/macos_lpe_checklist_script.md)
 - [ ] Create an Internal Recon Script with SharpHound-lite Features
 - [ ] [Write a Shell Script to Find Passwords on Linux and macOS](/tasks/find_passwords_shell_script.md)
 - [ ] [Create a Fake Service to Capture Vulnerability Scanner Logins](/tasks/fake_service_credential_capture.md)
