@@ -78,6 +78,7 @@ Table of Contents
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
 - [ ] [Initial Access - Windows - Payload Generation (MSI)](/tasks/msi_payload_delivery.md)
 - [ ] [Initial Access - Windows - Alternate Scripting Languages for Payload Delivery](/tasks/alternate_binary_payload_delivery.md)
+- [ ] [Initial Access - macOS - Investigate Initial Access Options for the organization](/tasks/research_spike_top_10_initial_access_vectors_macOS.md)
 - [ ] Create Malicious OAuth App for Phishing
 - [ ] Abuse Jira/Confluence Macros or Web Panels for Payload Delivery
 - [ ] Consent Phishing Simulation & Detection Evasion (NEEDS TEMPLATE)
