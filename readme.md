@@ -50,7 +50,7 @@ Table of Contents
 - [ ] [GraphQL Subscriptions & WebSocket Abuse](/tasks/research_spike_graphql_subscriptions_&_websockets.md)
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
 - [ ] [Test for Dependency Confusion in Artifact Repos](/tasks/research_spike_dependency_confusion_inside_internal_repos.md)
-- [ ] Identify Internal Software Libraries for Supply Chain Attack Risk 
+- [ ] [Identify Internal Software Libraries for Supply Chain Attack Risk](/tasks/internal_library_supply_chain_risks.md) 
 - [ ] [Audit CI/CD Pipelines for Misconfigurations & Abuse Paths](/tasks/ci_pipeline_abuse.md)
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
 - [ ] [Test for Secret Theft via CI Variables](/tasks/test_ci_secret_injection.md)
