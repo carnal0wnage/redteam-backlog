@@ -131,7 +131,7 @@ Table of Contents
 - [ ] [IoT Fleet Pivoting (Printers, Cameras, AV gear)](/tasks/research_spike_iot_fleet_pivot_playbook.md)
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
 - [ ] [Enumerate Internal Admin Portals](/tasks/research_spike_discovering_internal_admin_portals.md)
-- [ ] Assessing Jira & Confluence Security
+- [ ] [Assessing Jira & Confluence Security](/tasks/assess_jira_confluence_with_jpwn.md)
 - [ ] IPv6-Only Network Reconnaissance (NEEDS TEMPLATE)
 - [ ] Lateral Movement via Misconfigured Container Networking (NEEDS TEMPLATE)
 - [ ] DNS Zone Transfer or Subdomain Takeover on Internal Services (NEEDS TEMPLATE)
