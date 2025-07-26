@@ -55,7 +55,7 @@ Table of Contents
 - [ ] Audit CI/CD Pipelines for Misconfigurations & Abuse Paths
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
 - [ ] Test for Secret Theft via CI Variables
-- [ ] Test for Misuse of OAuth Refresh Tokens in M365/GWS
+- [ ] Test for Misuse of OAuth Refresh Tokens in M365/GWS](/link)
 - [ ] Enumerate Overly Permissive OAuth Scopes
 - [ ] Test for Open Redirects
 - [ ] Research JWT Token Validation for Internal Apps
