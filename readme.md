@@ -74,7 +74,7 @@ Table of Contents
 - [ ] [Automated Phishing Phone Trees](/tasks/research_spike_automated_phishing_phone_tree.md)  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
 - [ ] [Test Internal Email Filtering Rules](/tasks/test_internal_email_filtering.md)
-- [ ] Test Email Spoofing Tests (SPF/DKIM/DMARC)](/linnk)
+- [ ] [Test Email Spoofing Tests (SPF/DKIM/DMARC)](/tasks/research_spike_email_spoofing_tests_(spf-dkim).md)
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
 - [ ] [Initial Access - Windows - Payload Generation (MSI)](/tasks/msi_payload_delivery.md)
