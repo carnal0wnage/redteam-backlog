@@ -105,7 +105,7 @@ Table of Contents
 - [ ] [Write a Shell Script to Find Passwords on Linux and macOS](/tasks/find_passwords_shell_script.md)
 - [ ] [Create a Fake Service to Capture Vulnerability Scanner Logins](/tasks/fake_service_credential_capture.md)
 - [ ] [Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection](/tasks/auto_pivot_with_ssh_proxychains.md)
-- [ ] Abuse Misconfigured .npmrc, .pypirc, .dockerconfig Files
+- [ ] [Abuse Misconfigured .npmrc, .pypirc, .dockerconfig Files](/tasks/abuse_misconfigured_dev_configs.md)
 - [ ] Use of ADS (Alternate Data Streams) for File Hiding on Windows (NEEDS TEMPLATE)
 - [ ] Abuse Windows Shadow Copies for Persistence / Recovery (NEEDS TEMPLATE)
 - [ ] macOS TCC DB Tampering Scenarios (NEEDS TEMPLATE)
