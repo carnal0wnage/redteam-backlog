@@ -86,7 +86,9 @@ Table of Contents
 
 # 🧱 Post-Exploitation & Privilege Escalation
 
-- [ ] Post-Ex Secret Hunt (Windows/Linux/macOS)   
+- [ ] Post-Exploitation Scripting for Password File Discovery(Windows)](/link)
+- [ ] Post-Exploitation Scripting for Password File Discovery (Linux)](/link)
+- [ ] Post-Exploitation Scripting for Password File Discovery (macOS)](/link)   
 - [ ] Cross-Platform Secret Sniper Tool  
 - [ ] [Living-Off-the-SaaS-Land (LOSL) TTP Library](/tasks/research_spike_living-off-the-saas-land.md)
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
