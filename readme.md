@@ -55,7 +55,7 @@ Table of Contents
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
 - [ ] Test for Secret Theft via CI Variables
 - [ ] [Test for Misuse of OAuth Refresh Tokens in M365/GWS](/tasks/test_oauth_refresh_token_abuse.md)
-- [ ] Enumerate Overly Permissive OAuth Scopes
+- [ ] [Enumerate Overly Permissive OAuth Scopes](/tasks/enumerate_oauth_scopes.md)
 - [ ] Test for Open Redirects
 - [ ] Research JWT Token Validation for Internal Apps
 - [ ] [Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)](/tasks/enumerate_misconfigured_saas_webhooks.md)
