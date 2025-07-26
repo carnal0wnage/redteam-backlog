@@ -52,7 +52,7 @@ Table of Contents
 - [ ] [Test for Dependency Confusion in Artifact Repos](/tasks/research_spike_dependency_confusion_inside_internal_repos.md)
 - [ ] [Identify Internal Software Libraries for Supply Chain Attack Risk](/tasks/internal_library_supply_chain_risks.md) 
 - [ ] [Audit CI/CD Pipelines for Misconfigurations & Abuse Paths](/tasks/ci_pipeline_abuse.md)
-- [ ] Create Nuclei Scans + Custom Templates for Internal Apps
+- [ ] [Create Nuclei Scans + Custom Templates for Internal Apps](/tasks/nuclei_custom_templates_internal.md)
 - [ ] [Test for Secret Theft via CI Variables](/tasks/test_ci_secret_injection.md)
 - [ ] [Test for Misuse of OAuth Refresh Tokens in M365/GWS](/tasks/test_oauth_refresh_token_abuse.md)
 - [ ] [Enumerate Overly Permissive OAuth Scopes](/tasks/enumerate_oauth_scopes.md)
