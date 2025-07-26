@@ -50,7 +50,7 @@ Table of Contents
 - [ ] [GraphQL Attack Surface Enumeration](/tasks/research_spike_graphql_attack_surface_enumera.md)
 - [ ] [GraphQL Subscriptions & WebSocket Abuse](/tasks/research_spike_graphql_subscriptions_&_websockets.md)
 - [ ] [Federated Search Auth Bypass (Splunk/Elastic/M365)](/tasks/research_spike_federated_search_auth_bypass.md)  
-- [ ] Test for Dependency Confusion in Artifact Repos](/link)
+- [ ] [Test for Dependency Confusion in Artifact Repos](/tasks/research_spike_dependency_confusion_inside_internal_repos.md)
 - [ ] Identify Internal Software Libraries for Supply Chain Attack Risk 
 - [ ] Audit CI/CD Pipelines for Misconfigurations & Abuse Paths
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
