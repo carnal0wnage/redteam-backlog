@@ -100,7 +100,7 @@ Table of Contents
 - [ ] Samba Server for Legitimate DCSync Attack Simulation
 - [ ] Simulate a Malicious Insider with Developer Tool Access
 - [ ] [Create a Local Privilege Escalation Checklist Script for macOS](/tasks/macos_lpe_checklist_script.md)
-- [ ] Create an Internal Recon Script with SharpHound-lite Features
+- [ ] [Create an Internal Recon Script with SharpHound-lite Features](/tasks/internal_recon_sharphound_lite.md)
 - [ ] [Write a Shell Script to Find Passwords on Linux and macOS](/tasks/find_passwords_shell_script.md)
 - [ ] [Create a Fake Service to Capture Vulnerability Scanner Logins](/tasks/fake_service_credential_capture.md)
 - [ ] [Write a Script to Auto-Pivot with SSH + Proxychains + Route Injection](/tasks/auto_pivot_with_ssh_proxychains.md)
