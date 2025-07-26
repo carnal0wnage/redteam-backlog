@@ -163,7 +163,7 @@ Table of Contents
 # 🔐 Physical Security / RF / Access Control
 
 - [ ] Physical Access Audit Starter Kit  
-- [ ] USB Drop Research (OMG Cable, lure docs)
+- [ ] [USB Drop Research (OMG Cable, lure docs)](/tasks/research_spike_usb_drop_and_leave_behinds.md)
 - [ ] [RFID Relay Attacks via BLE / Wi-Fi (Badge Replay)](/tasks/research_spike_rfid_relay_attacks.md)
 - [ ] [Rogue USB-C Dock (Video+KVM+LAN)](/tasks/research_spike_rogue_usb-c_multi-function_implant.md)  
 - [ ] [Long-Range RFID Cloner](/tasks/research_spike_long-range_rfid_badge_capture.md)  
