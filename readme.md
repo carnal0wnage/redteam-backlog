@@ -97,7 +97,7 @@ Table of Contents
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
 - [ ] [Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities](/tasks/evaluate_software_deployment_tools.md)
-- [ ] Samba Server for Legitimate DCSync Attack Simulation
+- [ ] [Samba Server for Legitimate DCSync Attack Simulation](tasks/samba_dcsync_simulation.md)
 - [ ] Simulate a Malicious Insider with Developer Tool Access
 - [ ] [Create a Local Privilege Escalation Checklist Script for macOS](/tasks/macos_lpe_checklist_script.md)
 - [ ] [Create an Internal Recon Script with SharpHound-lite Features](/tasks/internal_recon_sharphound_lite.md)
