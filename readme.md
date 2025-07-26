@@ -137,7 +137,7 @@ Table of Contents
 
 # 🌩️ Cloud
 - [ ] [AWS - PrivEsc via PMapper Analysis](/tasks/research_spike_aws_privilege_escalation.md)
-- [ ] Exploit Secrets in Downstream Services (Containers, Lambda, etc.)
+- [ ] [AWS - Enumerate Services with Embedded Secrets (Containers, Lambda, EC2 Descriptions, etc.)](/tasks/enumerate_aws_services_with_embeded_secrets.md)
 - [ ] Cloud Function Abuse for Callback Persistence (e.g., AWS Lambda, GCP Cloud Functions) (NEEDS TEMPLATE)
 - [ ] CloudTrail or GCP Audit Log Evasion Techniques (NEEDS TEMPLATE)
 - [ ] Analysis of Org-Wide Roles vs. Project Roles in GCP (NEEDS TEMPLATE)
