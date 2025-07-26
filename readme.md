@@ -82,7 +82,7 @@ Table of Contents
 - [ ] [Initial Access - macOS - Investigate Initial Access Options for the Organization](/tasks/research_spike_top_10_initial_access_vectors_macOS.md)
 - [ ] [Initial Access - Windows - Investigate Initial Access Options for the Organization](tasks/initial_access_vectors_for_windows.md)
 - [ ] Create Malicious OAuth App for Phishing
-- [ ] Abuse Jira/Confluence Macros or Web Panels for Payload Delivery
+- [ ] [Abuse Jira/Confluence Macros or Web Panels for Payload Delivery](/tasks/abuse_jira_confluence_macros.md)
 - [ ] Consent Phishing Simulation & Detection Evasion (NEEDS TEMPLATE)
 - [ ] Targeted QR Code Phishing Pretext Design (NEEDS TEMPLATE)
 - [ ] Compromised OAuth Token Refresh Lifecycle Analysis (NEEDS TEMPLATE)
