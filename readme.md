@@ -61,7 +61,7 @@ Table of Contents
 - [ ] Research JWT Token Validation for Internal Apps
 - [ ] Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)
 - [ ] [Enumerate Apps with risky OAuth scopes](/tasks/enumerate_apps_with_risky_OAuth_scopes.md)
-- [ ] Audit OAuth App Registrations in Azure / Google
+- [ ] [Audit OAuth App Registrations in Azure / Google](/tasks/audit_oauth_app_registrations.md)
 - [ ] Browser Extension Security Review (NEEDS TEMPLATE)
 - [ ] Exploitation of Misconfigured CSP / CORS Headers (NEEDS TEMPLATE)
 - [ ] Testing for DOM-based XSS in Internal Apps (NEEDS TEMPLATE)
