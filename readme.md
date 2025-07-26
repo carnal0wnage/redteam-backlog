@@ -96,7 +96,7 @@ Table of Contents
 - [ ] [Search Compromised Developers for Cloud Credentials](/tasks/token_harvest_from_cli_configs.md)
 - [ ] [Tool to Audit Windows Developers for Privilege Escalation or RCE opportunities](/tasks/audit_windows_dev_tools.md)
 - [ ] [Tool to Audit OSX Developers for Privilege Escalation or RCE opportunities](/tasks/audit_macos_dev_tools.md)
-- [ ] Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities
+- [ ] [Evaluate First Party Software Deployment Tools for Persistence or Privilege Escalation Opportunities](/tasks/evaluate_software_deployment_tools.md)
 - [ ] Samba Server for Legitimate DCSync Attack Simulation
 - [ ] Simulate a Malicious Insider with Developer Tool Access
 - [ ] [Create a Local Privilege Escalation Checklist Script for macOS](/tasks/macos_lpe_checklist_script.md)
