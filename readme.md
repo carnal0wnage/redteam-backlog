@@ -80,7 +80,7 @@ Table of Contents
 - [ ] [Initial Access - Windows - Alternate Scripting Languages for Payload Delivery](/tasks/alternate_binary_payload_delivery.md)
 - [ ] [Initial Access - macOS - Investigate Initial Access Options for the Organization](/tasks/research_spike_top_10_initial_access_vectors_macOS.md)
 - [ ] [Initial Access - Windows - Investigate Initial Access Options for the Organization](tasks/initial_access_vectors_for_windows.md)
-- [ ] Create Malicious OAuth App for Phishing
+- [ ] [Create Malicious OAuth App for Phishing](/tasks/malicious_oauth_app_phishing.md)
 - [ ] [Abuse Jira/Confluence Macros or Web Panels for Payload Delivery](/tasks/abuse_jira_confluence_macros.md)
 - [ ] Consent Phishing Simulation & Detection Evasion (NEEDS TEMPLATE)
 - [ ] Targeted QR Code Phishing Pretext Design (NEEDS TEMPLATE)
