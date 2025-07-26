@@ -154,7 +154,7 @@ Table of Contents
 - [ ] Create terraform/ansible scripts for attack box builds
 - [ ] [Create a Long-Term Stealth C2 Using Legit Cloud Channels](/tasks/stealth_cloud_c2.md)
 - [ ] Create a New C2 Channel for Mythic
-- [ ] Create a Sliver or Mythic Profile Mimicking Corporate TLS Patterns
+- [ ] [Create a Sliver or Mythic Profile Mimicking Corporate TLS Patterns](/tasks/sliver_mythic_tls_profile.md)
 - [ ] Side-Loading Legitimate DLLs for C2 Execution (NEEDS TEMPLATE)
 - [ ] Malicious Container Image for Initial Access or Persistence (NEEDS TEMPLATE)
 - [ ] Use of AI Model APIs (e.g., GPT, Claude) as C2 Channels (NEEDS TEMPLATE)
