@@ -1,8 +1,7 @@
 # Red Team Backlog
 
-For all those backlog items/ideas that all/most Red Teams need to do :-)
-
-send diffs with yours
+## What
+A list of generic Red Team "backlog" items that most Red Teams would do to prep for operations or to work on during down time. Please add yours.
 
 ## Questions
 * Q. What's a spike? Ans. A short(ish) research task.
