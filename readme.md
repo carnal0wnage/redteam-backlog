@@ -120,7 +120,7 @@ Table of Contents
 
 - [ ] [NetBIOS/SMB Enumeration](/tasks/research_spike_enumerate_internal_smb.md)  
 - [ ] [NFS Recon & Exploitation](/tasks/research_spike_nfs_share_enumeration_and_exploit.md)  
-- [ ] Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops)  
+- [ ] [Layer 2 Attack Toolkit (ARP spoofing, LLMNR, DHCP, VLAN hops](/tasks/research_spike_common_layer_2_attacks.md))  
 - [ ] [Printer Hacking & Lateral Movement](/tasks/research_spike_printer_hacking_and_lateral_movement.md)  
 - [ ] IoT Fleet Pivoting (Printers, Cameras, AV gear)
 - [ ] [Exposed Version Control Artifacts](/tasks/research_spike_exposed_version_control_artifacts.md)
