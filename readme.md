@@ -70,7 +70,7 @@ Table of Contents
 
 - [ ] Phishing Pretext Template Pack (Internal Tools)  
 - [ ] Voice Deepfake for Helpdesk Abuse  
-- [ ] Automated Phishing Phone Trees  
+- [ ] [Automated Phishing Phone Trees](/tasks/research_spike_automated_phishing_phone_tree.md)  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
 - [ ] [Test Internal Email Filtering Rules](/tasks/test_internal_email_filtering.md)
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
