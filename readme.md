@@ -53,7 +53,7 @@ Table of Contents
 - [ ] Identify Internal Software Libraries for Supply Chain Attack Risk 
 - [ ] [Audit CI/CD Pipelines for Misconfigurations & Abuse Paths](/tasks/ci_pipeline_abuse.md)
 - [ ] Create Nuclei Scans + Custom Templates for Internal Apps
-- [ ] Test for Secret Theft via CI Variables
+- [ ] [Test for Secret Theft via CI Variables](/tasks/test_ci_secret_injection.md)
 - [ ] [Test for Misuse of OAuth Refresh Tokens in M365/GWS](/tasks/test_oauth_refresh_token_abuse.md)
 - [ ] [Enumerate Overly Permissive OAuth Scopes](/tasks/enumerate_oauth_scopes.md)
 - [ ] [Test for Open Redirects](/tasks/test_for_open_redirects.md)
