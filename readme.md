@@ -178,7 +178,7 @@ Table of Contents
 
 # 🧬 Custom Tooling & Automation
 - [ ] [Tool - Teams Credential Recon](/tasks/research_spike_microsoft_teams_channel_secrets.md)
-- [ ] Confluence/Jira Credential Recon  (NEEDS TEMPLATE)
+- [ ] Tool - Confluence/Jira Credential Recon  (NEEDS TEMPLATE)
 - [ ] [Tool - GitHub/GitLab Secret Discovery](/tasks/research_spike_github-gitlab_secret_search_to.md)
 - [ ] Tool to Auto-Correlate Secrets Found Across Logs, Containers, Git (NEEDS TEMPLATE)
 - [ ] Browser Extension to Help Red Teamers Enumerate Apps (NEEDS TEMPLATE)
