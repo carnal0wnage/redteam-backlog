@@ -70,7 +70,7 @@ Table of Contents
 # 🎣 Phishing & Social Engineering
 
 - [ ] Phishing Pretext Template Pack (Internal Tools)  
-- [ ] [Voice Deepfake for Helpdesk Abuse](/link)  
+- [ ] [Voice Deepfake for Helpdesk Abuse](/tasks/research_spike_real-time_deepfake_voice_for_helpdesk_abuse.md)  
 - [ ] [Automated Phishing Phone Trees](/tasks/research_spike_automated_phishing_phone_tree.md)  
 - [ ] Office Macro Phish Payloads (MITRE-mapped)
 - [ ] [Test Internal Email Filtering Rules](/tasks/test_internal_email_filtering.md)
