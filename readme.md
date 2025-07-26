@@ -56,7 +56,7 @@ Table of Contents
 - [ ] Test for Secret Theft via CI Variables
 - [ ] [Test for Misuse of OAuth Refresh Tokens in M365/GWS](/tasks/test_oauth_refresh_token_abuse.md)
 - [ ] [Enumerate Overly Permissive OAuth Scopes](/tasks/enumerate_oauth_scopes.md)
-- [ ] Test for Open Redirects
+- [ ] [Test for Open Redirects](/tasks/test_for_open_redirects.md)
 - [ ] Research JWT Token Validation for Internal Apps
 - [ ] [Enumerate Misconfigured SaaS Webhooks (Slack, GitHub, Asana)](/tasks/enumerate_misconfigured_saas_webhooks.md)
 - [ ] [Enumerate Apps with risky OAuth scopes](/tasks/enumerate_apps_with_risky_OAuth_scopes.md)
