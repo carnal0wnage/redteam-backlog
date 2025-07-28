@@ -78,6 +78,7 @@ Table of Contents
 - [ ] Consent Phishing Simulation & Detection Evasion (NEEDS TEMPLATE)
 - [ ] Targeted QR Code Phishing Pretext Design (NEEDS TEMPLATE)
 - [ ] Compromised OAuth Token Refresh Lifecycle Analysis (NEEDS TEMPLATE)
+- [ ] Automated OSINT Collection & Credential Enrichment Tool](/link)
 
 # 🚪 Initial Access
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
