@@ -1,4 +1,4 @@
-# 🎣 Research Spike: Create Office Macro Phish Payloads
+# 🎣 Research Spike: Create Weaponized Office Macro Phish Payloads
 
 **Goal:**  
 Design and generate Office macro payloads for phishing engagements. Focus on creating obfuscated, weaponized VBA (or other equivalent language) macros capable of delivering payloads or establishing callbacks, while bypassing common AV and EDR detection.
