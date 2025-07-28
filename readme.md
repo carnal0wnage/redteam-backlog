@@ -14,7 +14,7 @@ A list of generic Red Team "backlog" items that most Red Teams would do to prep 
 * Q. I have an idea can I contribute? Ans. Absolutely! I take diffs (use the template) or create an issue and someone will get around to updating the particular task.
 
 ## Contributors
-carnal0wnage, Blake Champion, 
+Chris Gates, Blake Champion, 
 
 Table of Contents
 =================
