@@ -89,7 +89,7 @@ Table of Contents
 - [ ] [Initial Access - macOS - Investigate Initial Access Options for the Organization](/tasks/research_spike_top_10_initial_access_vectors_macOS.md)
 - [ ] [Initial Access - Windows - Investigate Initial Access Options for the Organization](tasks/initial_access_vectors_for_windows.md)
 - [ ] [Office Macro Malware](/tasks/research_spike_office_macro_malware.md)
-- [ ] Create Office Macro Phish Payloads (NEEDS TEMPLATE)
+- [ ] [Create Weaponized Office Macro Phish Payloads](/tasks/create_office_macro_phish_payloads.md)
 - [ ] [Create Malicious OAuth App for Phishing](/tasks/malicious_oauth_app_phishing.md)
 
 # 🧱 Post-Exploitation & Privilege Escalation
