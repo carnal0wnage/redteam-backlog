@@ -79,6 +79,7 @@ Table of Contents
 - [ ] Targeted QR Code Phishing Pretext Design (NEEDS TEMPLATE)
 - [ ] Compromised OAuth Token Refresh Lifecycle Analysis (NEEDS TEMPLATE)
 - [ ] [Automated OSINT Collection & Credential Enrichment Tool](/tasks/automated_osint_target_enrichment.md)
+- [ ] [Manual OSINT Workflow & Checklist for Red Team Operations](/tasks/manual_osint_redteam_checklist.md)
 
 # 🚪 Initial Access
 - [ ] [Initial Access - Inovations](/tasks/initial_access_innovations.md)
